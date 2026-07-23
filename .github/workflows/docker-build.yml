@@ -1,4 +1,4 @@
-name: Build and Push Docker Image
+name: Hari is Building and Pushing Docker Image
 
 on:
   push:
